@@ -1,0 +1,34 @@
+{
+  "projectName": "learn-php-2021-07-11-1209h",
+  "styleFile": "/css/style.css",
+  "assetsFolder": "/assets",
+  "designFramework": "bootstrap4",
+  "frameworks": [
+    {
+      "name": "jquery_slim_33",
+      "type": "cdn"
+    },
+    {
+      "name": "fontawesome_4",
+      "type": "cdn"
+    },
+    {
+      "name": "bootstrap4",
+      "type": "local"
+    },
+    {
+      "name": "appConnect",
+      "type": "local"
+    }
+  ],
+  "hostingType": "docker",
+  "projectServerModel": "PHP",
+  "firebaseProjectID": "",
+  "herokuProjectID": "",
+  "gitURL": "",
+  "activeTarget": "Development",
+  "useRouting": true,
+  "addBase": true,
+  "routingHandler": "apache",
+  "projectType": "web"
+}
